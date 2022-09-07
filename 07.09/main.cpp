@@ -18,5 +18,7 @@ public:
 
 int main()
 {
+	Point a;
+	Person b;
 
 }
