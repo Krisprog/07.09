@@ -22,6 +22,12 @@ class Student
 	int age;
 public:
 };
+class University
+{
+	Student* Academy;
+	int count;
+public:
+};
 
 int main()
 {
